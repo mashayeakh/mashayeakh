@@ -12,6 +12,7 @@
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/MashTechie)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:islammasayekh@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?logo=firefox&logoColor=#FF7139)](https://github.com/mashayeakh)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=black)](https://leetcode.com/mashayeakh)
 
 </div>
 
@@ -19,17 +20,29 @@
 
 ## About Me
 
-I'm a Full-Stack Developer focused on building AI-driven web applications and automation systems. My work centers on combining modern web technologies with intelligent features to create products that solve real problems efficiently and at scale.
+I'm a Full-Stack Developer focused on building AI-driven web applications and automation systems. I combine modern web technologies with intelligent features to create products that solve real problems — efficiently and at scale.
 
-- 🔭 **Currently building:** [Jobspark](https://github.com/mashayeakh) — an AI-powered job portal built on the MERN stack, focused on intelligent matching and automated workflows
-- 🌱 **Currently learning:** Advanced AI integration, machine learning workflows, and system design at scale
-- 👯 **Open to collaborate on:** AI-driven web apps, automation systems, or any project combining full-stack engineering with AI
+- 🔭 **Currently building:** [Jobspark](https://github.com/mashayeakh) — an AI-powered job portal on the MERN stack with intelligent matching & automated workflows
+- 🖥️ **Frontend:** React.js, Next.js, TypeScript, Redux, Tailwind CSS
+- 🗄️ **Backend:** Node.js, Express.js, PostgreSQL, MongoDB, Prisma
+- 🛠️ **Currently learning:** Docker, AWS, advanced AI integration & system design at scale
+- 👯 **Open to collaborate on:** AI-driven web apps, automation systems, or full-stack + AI projects
 - 💬 **Ask me about:** MERN Stack, AI Integration, Full-Stack Architecture, or Project Collaboration
 - 📫 **Reach me:** islammasayekh@gmail.com
 
 ---
 
-## Tech Stack
+## 🧠 LeetCode Stats
+
+<div align="center">
+
+[![LeetCode Stats](https://leetcard.jacoblin.cool/mashayeakh?theme=dark&font=Nunito&ext=heatmap)](https://leetcode.com/mashayeakh)
+
+</div>
+
+---
+
+## 💻 Tech Stack
 
 **Frontend**
 
@@ -47,10 +60,12 @@ I'm a Full-Stack Developer focused on building AI-driven web applications and au
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
 
 **Cloud & DevOps**
 
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
@@ -66,7 +81,19 @@ I'm a Full-Stack Developer focused on building AI-driven web applications and au
 
 ---
 
-## GitHub Stats
+## 🚀 Featured Projects
+
+| # | Project | Description | Stack | Links |
+|---|---------|-------------|-------|-------|
+| 1 | **Cintube** | AI-powered video platform with intelligent content recommendations and automated processing | Next.js, Node.js, AI, MongoDB | [Repo](https://github.com/mashayeakh) |
+| 2 | **SkillBridge** | Full-stack skill-sharing & learning platform connecting mentors with learners | React, Express, PostgreSQL, Prisma | [Repo](https://github.com/mashayeakh) |
+| 3 | **Jobspark** | AI-powered job portal with intelligent matching & automated workflows | MERN, AI, Next.js | [Repo](https://github.com/mashayeakh) |
+
+> *More projects pinned below ↓*
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
 
@@ -80,7 +107,7 @@ I'm a Full-Stack Developer focused on building AI-driven web applications and au
 
 ---
 
-## Achievements
+## 🏆 Achievements
 
 <div align="center">
 
@@ -90,19 +117,15 @@ I'm a Full-Stack Developer focused on building AI-driven web applications and au
 
 ---
 
-## Top Contributions
+## 📈 Contribution Activity
 
-![Top Contributed Repos](https://github-contributor-stats.vercel.app/api?username=mashayeakh&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mashayeakh&theme=react-dark&hide_border=true)
 
 ---
 
-## Featured Projects
+## 🔝 Top Contributions
 
-| Project | Description | Stack |
-|---|---|---|
-| [Jobspark](https://github.com/mashayeakh) | AI-powered job portal with intelligent matching & automation | MERN, AI, Next.js |
-
-> *More projects pinned below ↓*
+![Top Contributed Repos](https://github-contributor-stats.vercel.app/api?username=mashayeakh&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 
@@ -111,6 +134,7 @@ I'm a Full-Stack Developer focused on building AI-driven web applications and au
 [![Profile Views](https://visitcount.itsvg.in/api?id=mashayeakh&icon=1&color=0)](https://visitcount.itsvg.in)
 
 *Open to collaborations, freelance projects, and interesting conversations.*
+
 **islammasayekh@gmail.com**
 
 </div>
