@@ -1,4 +1,8 @@
 <div align="center">
+  <img src="https://raw.githubusercontent.com/mashayeakh/mashayeakh/main/banner.png" alt="Banner" width="100%"/>
+</div>
+
+<div align="center">
 
 # Hi, I'm Masayeakh Islam 👋
 
