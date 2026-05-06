@@ -32,6 +32,26 @@ I'm a passionate Full-Stack Developer with a keen focus on integrating AI into m
 
 ---
 
+## 💡 What I Bring
+
+- Backend-first thinking with focus on scalability, performance, and security  
+- Clean architecture and maintainable code practices  
+- Real-world problem solving beyond tutorial-level projects  
+- Fast and efficient development using modern AI tools  
+- Production-ready system design mindset  
+
+---
+
+## 🌱 Currently Learning
+
+- Retrieval-Augmented Generation (RAG)  
+- Vector Databases  
+- Docker & containerization  
+- Vector embeddings and semantic search  
+- Agentic workflows and AI automation
+
+---
+
 ## 💻 Tech Stack
 
 ### Languages
