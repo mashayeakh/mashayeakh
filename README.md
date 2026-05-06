@@ -1,4 +1,8 @@
 <div align="center">
+  <img src="https://via.placeholder.com/1200x300/0a192f/64ffda?text=Masayeakh+Islam" alt="Banner" width="100%"/>
+</div>
+
+<div align="center">
 
 # 👨‍💻 Masayeakh Islam
 
