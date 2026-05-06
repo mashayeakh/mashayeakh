@@ -10,10 +10,10 @@
 
 **Building intelligent, AI-driven web applications with modern full-stack architectures.**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/masayeakh-islam)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/masayeakh-islam-8575b735a/)
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/MashTechie)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:islammasayekh@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?logo=firefox&logoColor=#FF7139)](https://github.com/mashayeakh)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?logo=firefox&logoColor=#FF7139)](https://portfolio-delta-gules-8o7swyrtxt.vercel.app/)
 
 </div>
 
@@ -109,25 +109,8 @@ I'm a passionate Full-Stack Developer with a keen focus on integrating AI into m
 ### 📈 Contribution Activity
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mashayeakh&theme=react-dark&hide_border=true)
 
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=mashayeakh&theme=transparent&hide_border=false&include_all_commits=true&count_private=false&show_icons=true" />
-    </td>
-    <td>
-      <img src="https://nirzak-streak-stats.vercel.app/?user=mashayeakh&theme=transparent&hide_border=false" />
-    </td>
-  </tr>
-</table>
-
-### 🔝 Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mashayeakh&theme=transparent&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
 ### 🏆 GitHub Trophies
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=mashayeakh&theme=default&no-frame=false&no-bg=true&margin-w=4)
-
-### 🔥 Top Contributed Repos
-![Top Contributed Repos](https://github-contributor-stats.vercel.app/api?username=mashayeakh&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 </div>
 
@@ -144,7 +127,5 @@ I'm always open to discussing exciting projects, potential collaborations, or ju
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:islammasayekh@gmail.com)
 
 ### 📧 **Send me an email:** [islammasayekh@gmail.com](mailto:islammasayekh@gmail.com)
-
-[![Profile Views](https://visitcount.itsvg.in/api?id=mashayeakh&icon=1&color=0)](https://visitcount.itsvg.in)
 
 </div>
