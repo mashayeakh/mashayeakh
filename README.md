@@ -117,7 +117,7 @@ I'm a passionate Full-Stack Developer with a keen focus on integrating AI into m
 | :--- | :--- | :--- | :--- |
 | **Cintube** | An AI-enhanced video platform that offers smart recommendations and automated content processing. | Next.js, Node.js, AI, MongoDB | [Live](https://cinetube-phi.vercel.app/) |
 | **SkillBridge** | A full-stack platform connecting mentors and learners for skill-sharing sessions and courses. | React, Express, PostgreSQL, Prisma | [Live](https://skillbridgefrontend-delta.vercel.app/) |
-| **Jobspark 🚧 (In Progress)** | AI-powered job portal with intelligent resume matching and automated workflows to streamline hiring. | MERN, AI APIs, Next.js | [Live]([jobspark-frontend.vercel.app](https://jobspark-frontend.vercel.app/)) |
+| **Jobspark 🚧 (In Progress)** | AI-powered job portal with intelligent resume matching and automated workflows to streamline hiring. | MERN, AI APIs, Next.js | [Live]((https://jobspark-frontend.vercel.app/)) |
 
 ---
 
